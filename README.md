@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atrademacher
 - 👀 I’m interested in HTML, CSS, JavaScript, and UI/UX Design
-- 🌱 I’m currently learning JavaScript, UX Design, and Angular
-- 💞️ I’m looking to collaborate on UX Projects that involve 
+- 🌱 I’m currently learning JavaScript, UX Design, and React
+- 💞️ I’m looking to collaborate on UX Projects that involve Design Systems and for Web
 - 📫 How to reach me N/A
 
 <!---
